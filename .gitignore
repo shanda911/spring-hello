@@ -5,6 +5,7 @@ target/maven-status
 target/surefire-reports
 target/test-classes
 target/spring-boot-docker.jar.original
+#only jar
 .mvn/
 
 ### STS ###
